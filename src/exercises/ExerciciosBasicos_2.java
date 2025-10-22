@@ -1,0 +1,7 @@
+package exercises;
+
+public class ExerciciosBasicos_2 {
+    public static void main(String[] args) {
+
+    }
+}
