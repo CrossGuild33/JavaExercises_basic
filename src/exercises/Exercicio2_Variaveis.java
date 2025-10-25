@@ -1,8 +1,6 @@
 package exercises;
 
-import java.util.Scanner;
-
-public class ExerciciosBasicos_1 {
+public class Exercicio2_Variaveis {
     public static void main(String[] args) {
         // Aqui estarei realizando exercícios de imprimir estruturas diferentes de dados,
         // imprimir um nome em Scanner e o "Hello World!"
@@ -14,15 +12,7 @@ public class ExerciciosBasicos_1 {
         String palavra = "computador";
         boolean ifelse = true;
 
-        //exercicio para imprimir nome usando Scanner
-        Scanner scanner = new Scanner(System.in);
-        System.out.println("Digite seu nome:");
-        String nome = scanner.nextLine();
 
-        System.out.println("nome:" + nome);
-
-        //imprimindo Hello World!
-        System.out.println("Hello World!");
         System.out.println(numero);
         System.out.println(decimal);
         System.out.println(caractere);

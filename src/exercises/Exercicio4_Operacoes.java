@@ -2,7 +2,7 @@ package exercises;
 
 import java.util.Scanner;
 
-public class ExerciciosBasicos_2 {
+public class Exercicio4_Operacoes {
     public static void main(String[] args) {
         // Exercício de criar calculadora
 
