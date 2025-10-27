@@ -12,6 +12,7 @@ public class Exercicio9_MaiorNumero {
         int num2 = scanner.nextInt();
         int maior = Math.max(num1, num2);
         System.out.println("O número maior é:" + maior);
-        
+
+        scanner.close();
     }
 }

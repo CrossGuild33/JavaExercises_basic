@@ -12,6 +12,7 @@ public class Exercicio8_ParOuImpar {
         }else {
             System.out.println("O numero é impar");
         }
+        scanner.close();
         }
 
     }

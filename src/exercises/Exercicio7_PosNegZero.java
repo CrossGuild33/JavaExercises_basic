@@ -12,5 +12,6 @@ public class Exercicio7_PosNegZero {
         }else{
             System.out.printf("O número informado é negativo");
         }
+        scanner.close();
     }
 }

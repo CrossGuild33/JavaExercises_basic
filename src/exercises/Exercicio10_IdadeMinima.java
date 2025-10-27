@@ -12,6 +12,6 @@ public class Exercicio10_IdadeMinima {
         }else{
             System.out.println("Não pode votar");
         }
-
+        scanner.close();
     }
 }
